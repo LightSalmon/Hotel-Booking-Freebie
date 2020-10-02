@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Mulish';
+  src: url('./static/Mulish-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Luckiest Guy';
+  src: url('./11814.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
