@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hotel-Booking-Freebie/static/css/main.a7c47317.chunk.css",
+    "main.js": "/Hotel-Booking-Freebie/static/js/main.4630094f.chunk.js",
+    "main.js.map": "/Hotel-Booking-Freebie/static/js/main.4630094f.chunk.js.map",
+    "runtime-main.js": "/Hotel-Booking-Freebie/static/js/runtime-main.1b559e78.js",
+    "runtime-main.js.map": "/Hotel-Booking-Freebie/static/js/runtime-main.1b559e78.js.map",
+    "static/js/2.d5ff03fe.chunk.js": "/Hotel-Booking-Freebie/static/js/2.d5ff03fe.chunk.js",
+    "static/js/2.d5ff03fe.chunk.js.map": "/Hotel-Booking-Freebie/static/js/2.d5ff03fe.chunk.js.map",
+    "index.html": "/Hotel-Booking-Freebie/index.html",
+    "precache-manifest.e06e30e164d11a4999eafb2f64734982.js": "/Hotel-Booking-Freebie/precache-manifest.e06e30e164d11a4999eafb2f64734982.js",
+    "service-worker.js": "/Hotel-Booking-Freebie/service-worker.js",
+    "static/css/main.a7c47317.chunk.css.map": "/Hotel-Booking-Freebie/static/css/main.a7c47317.chunk.css.map",
+    "static/js/2.d5ff03fe.chunk.js.LICENSE.txt": "/Hotel-Booking-Freebie/static/js/2.d5ff03fe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Hotel-Booking-Freebie/static/media/Mulish-Regular.e128ac44.ttf",
+    "static/media/logo.svg": "/Hotel-Booking-Freebie/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b559e78.js",
+    "static/js/2.d5ff03fe.chunk.js",
+    "static/css/main.a7c47317.chunk.css",
+    "static/js/main.4630094f.chunk.js"
+  ]
+}
