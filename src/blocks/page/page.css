@@ -9,6 +9,8 @@
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: normal;
   background: #F5FAFE;
   color: #333333;
   -webkit-text-size-adjust: 100%;
