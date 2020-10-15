@@ -1,5 +1,6 @@
 export const initialHotels = [
   {
+    id:'1',
     image:'https://clck.ru/RPGFp',
     starsNumber: '5',
     name:  'Hotel Blue Haven',
@@ -11,6 +12,7 @@ export const initialHotels = [
     newPrice: '8500',
   },
   {
+    id:'2',
     image: 'https://clck.ru/RPG5n',
     starsNumber: '5',
     name: 'LUX* Belle Mare',
@@ -22,6 +24,7 @@ export const initialHotels = [
     newPrice: '3000',
   },
   {
+    id:'3',
     image: 'https://clck.ru/RPGAb',
     starsNumber: '5',
     name: 'White Palace',
@@ -33,6 +36,7 @@ export const initialHotels = [
     newPrice: '9500',
   },
   {
+    id:'4',
     image: 'https://clck.ru/RPGAb',
     starsNumber: '5',
     name: 'White Palace',
@@ -44,6 +48,7 @@ export const initialHotels = [
     newPrice: '10500',
   },
   {
+    id:'5',
     image: 'https://clck.ru/RPGEZ',
     starsNumber: '5',
     name: 'Luxury Place',
@@ -55,6 +60,7 @@ export const initialHotels = [
     newPrice: '2500',
   },
   {
+    id:'6',
     image: 'https://clck.ru/RPGFp',
     starsNumber: '5',
     name: 'Hotel Five Star',
