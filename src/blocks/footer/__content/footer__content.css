@@ -1,0 +1,7 @@
+.footer__content{
+  display: grid;
+  /* grid-template-columns: 166fr 156fr 251fr 195fr; */
+  grid-template-columns: repeat(auto-fit, minmax(156px, 1fr));
+  grid-template-rows: 218px;
+  gap: 94px 42px;
+}

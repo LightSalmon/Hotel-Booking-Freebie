@@ -2,28 +2,26 @@
   display: grid;
   height: 100vh;
   min-width: 300px;
+  height: 100vh;
   margin: 0 auto;
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Mulish', 'Luckiest Guy', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    sans-serif;/* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; https://fonts.google.com/specimen/Mulish*/
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
   font-style: normal;
   font-weight: normal;
   background: #F5FAFE;
   color: #333333;
+=======
+>>>>>>> a96fd4994488c74627d2aa6c2bd96b0c54e891ac
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  background: #F5FAFE;
+  color: #333333;
 }
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} 
-
-
-https://fonts.google.com/specimen/Mulish
-
-*/

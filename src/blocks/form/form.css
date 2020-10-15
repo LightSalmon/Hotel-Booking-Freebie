@@ -1,0 +1,13 @@
+@import url('./__input/form__input.css');
+@import url('./__submit-btn/form__submit-btn.css');
+
+.form{
+  grid-column-start: 3;
+  grid-column-end: 5;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 15px 50px 123px 50px;
+  gap: 15px 30px;
+}

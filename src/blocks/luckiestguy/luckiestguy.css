@@ -1,0 +1,15 @@
+@import url('./luckiestguy/_pink/luckiestguy_pink.css');
+
+.luckiestguy{
+  margin: 0;
+  padding: 0;
+  max-width: 166px;
+  height: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Luckiest Guy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 64px;
+}

@@ -1,0 +1,4 @@
+.footer__li_point{
+  list-style: inside url(../../../../images/location.svg);
+  margin: 11px;
+}
