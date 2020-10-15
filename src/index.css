@@ -1,3 +1,6 @@
 @import url('./vendor/normalize.css');
 @import url('./vendor/fonts/fonts.css');
 @import url('./blocks/page/page.css');
+@import url('./blocks/luckiestguy/luckiestguy.css');
+@import url('./blocks/footer/footer.css');
+@import url('./blocks/form/form.css');
