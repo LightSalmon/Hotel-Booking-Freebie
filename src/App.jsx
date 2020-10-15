@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Footer from './Footer';
+import Packages from './components/Packages'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <header className="header">
       Questions? Need Help? Call us on (+123) 456 1500
       </header>
-      <Footer />
+      <Packages/>
     </div>
   );
 }

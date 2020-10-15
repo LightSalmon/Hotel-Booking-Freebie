@@ -6,6 +6,13 @@
 }
 
 @font-face {
+  font-family: 'Mulish';
+  src: url('./static/Mulish-Black.ttf') format('truetype');
+  font-style: bold;
+  font-weight: bold;
+}
+
+@font-face {
   font-family: 'Luckiest Guy';
   src: url('./11814.ttf') format('truetype');
   font-style: normal;

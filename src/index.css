@@ -4,3 +4,8 @@
 @import url('./blocks/luckiestguy/luckiestguy.css');
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/form/form.css');
+@import url('./blocks/packages/packages.css');
+@import url('./blocks/card/card.css');
+@import url('./blocks/picture/picture.css');
+@import url('./blocks/button-book/button-book.css');
+@import url('./blocks/room-info/room-info.css');

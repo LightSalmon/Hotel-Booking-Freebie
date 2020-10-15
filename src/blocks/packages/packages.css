@@ -1,0 +1,9 @@
+@import url('./__title/packages__title.css');
+@import url('./__cards/packages__cards.css');
+
+.packages{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 155px;
+}
