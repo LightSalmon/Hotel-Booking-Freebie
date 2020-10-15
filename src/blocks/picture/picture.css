@@ -1,0 +1,8 @@
+@import url('./__guest/picture__guest.css');
+@import url('./__home/picture__home.css');
+@import url('./__map/picture__map.css');
+
+.picture{
+  width: 14px;
+  height: 14px;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Packages from './components/Packages'
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <header className="header">
       Questions? Need Help? Call us on (+123) 456 1500
       </header>
+      <Packages/>
     </div>
   );
 }
