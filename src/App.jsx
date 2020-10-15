@@ -2,13 +2,12 @@ import React from 'react';
 import './App.css';
 import Packages from './components/Packages'
 import Footer from './components/Footer'
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="page">
-      <header className="header">
-      Questions? Need Help? Call us on (+123) 456 1500
-      </header>
+      <Header/>
       <Packages/>
       <Footer/>
     </div>
