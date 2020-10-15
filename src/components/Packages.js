@@ -8,7 +8,6 @@ function Packeges(){
     <section className="packages">
       <h2 className="packages__title">OTHER PACHEGES</h2>
       <ul className="packages__cards">
-        
         {initialHotels.map(card => <Card key={card.id} {...card}/>)}
       </ul>
     </section>

@@ -1,7 +1,14 @@
+import hotel1 from '../images/packages/hotel2.png'
+import hotel2 from '../images/packages/hotel3.png'
+import hotel3 from '../images/packages/hotel5.png'
+import hotel4 from '../images/packages/hotel5.png'
+import hotel5 from '../images/packages/hotel6.png'
+import hotel6 from '../images/packages/hotel2.png'
+
 export const initialHotels = [
   {
     id:'1',
-    image:'https://clck.ru/RPGFp',
+    image: hotel1,
     starsNumber: '5',
     name:  'Hotel Blue Haven',
     description: 'Good hotel',
@@ -13,7 +20,7 @@ export const initialHotels = [
   },
   {
     id:'2',
-    image: 'https://clck.ru/RPG5n',
+    image: hotel2,
     starsNumber: '5',
     name: 'LUX* Belle Mare',
     description: 'Good hotel',
@@ -25,7 +32,7 @@ export const initialHotels = [
   },
   {
     id:'3',
-    image: 'https://clck.ru/RPGAb',
+    image: hotel3,
     starsNumber: '5',
     name: 'White Palace',
     description: 'Good hotel',
@@ -37,7 +44,7 @@ export const initialHotels = [
   },
   {
     id:'4',
-    image: 'https://clck.ru/RPGAb',
+    image: hotel4,
     starsNumber: '5',
     name: 'White Palace',
     description: 'Good hotel',
@@ -49,7 +56,7 @@ export const initialHotels = [
   },
   {
     id:'5',
-    image: 'https://clck.ru/RPGEZ',
+    image: hotel5,
     starsNumber: '5',
     name: 'Luxury Place',
     description: 'Good hotel',
@@ -61,7 +68,7 @@ export const initialHotels = [
   },
   {
     id:'6',
-    image: 'https://clck.ru/RPGFp',
+    image: hotel6,
     starsNumber: '5',
     name: 'Hotel Five Star',
     description: 'Good hotel',
