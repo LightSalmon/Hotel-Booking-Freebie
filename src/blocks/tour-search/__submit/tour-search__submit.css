@@ -1,0 +1,18 @@
+.tour-search__submit {
+    border: none;
+    box-shadow: none;
+    background-color: #EC1F46;
+    background-image: url("../../../images/search-icon.svg");
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: center;
+    height: 41px;
+    width: 65px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    cursor: pointer;
+}
+
+.tour-search__submit:hover {
+    opacity: 0.5;
+}

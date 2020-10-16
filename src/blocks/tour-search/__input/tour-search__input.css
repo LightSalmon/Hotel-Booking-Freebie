@@ -1,0 +1,10 @@
+.tour-search__input {
+    background-color: #F5FAFE;
+    border: none;
+    font-size: 12px;
+    line-height: 1.25;
+    padding: 13px 23px;
+    min-width: 285px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}

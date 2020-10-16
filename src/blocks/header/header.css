@@ -1,23 +1,20 @@
+@import url('./__top-navigation/header__top-navigation.css');
 @import url('./__contact/header__contact.css');
 @import url('./__contact/_type/header__contact_type_question.css');
 @import url('./__contact/_type/header__contact_type_phone.css');
 @import url('./__container/header__container.css');
 @import url('./__container/_type/header__container_type_gift.css');
 @import url('./__container/_type/header__container_type_loyalty.css');
-@import url('./__grouping/header__grouping.css');
+@import url('__preference/header__preference.css');
 @import url('./__button/header__button.css');
-@import url('./__icon/header__icon.css');
+@import url('./__button/_type/header__button_type_gift.css');
+@import url('./__button/_type/header__button_type_star.css');
 @import url('./__program/header__program.css');
+@import url('./__tour-search/header__tour-search.css');
+@import url('./__navigation/header-navigation.css');
 
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    min-width: calc(1440px - 165px*2);
+    min-width: 1440px;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 21px 165px;
-    font-size: 10px;
-    line-height: 1.25;
-    font-weight: normal;
-    color: #333333;
 }
