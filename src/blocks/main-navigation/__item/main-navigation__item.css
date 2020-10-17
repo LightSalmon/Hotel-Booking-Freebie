@@ -7,7 +7,3 @@
 .main-navigation__item:hover {
     opacity: 0.5;
 }
-
-.main-navigation__item:first-child {
-    margin: 0;
-}

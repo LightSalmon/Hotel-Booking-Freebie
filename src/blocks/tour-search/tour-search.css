@@ -4,15 +4,11 @@
 @import url('./__container/tour-search__container.css');
 
 .tour-search {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    min-width: calc(1110px - 165px*2);
-    margin: 0 auto;
-    padding: 39px 165px;
+    min-width: 100%;
     font-size: 14px;
     line-height: 1.29;
     font-weight: normal;
     color: #333333;
     background-color: #FFFFFF;
+    padding: 39px 0;
 }

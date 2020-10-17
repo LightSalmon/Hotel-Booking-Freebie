@@ -1,10 +1,13 @@
 @import url('./vendor/normalize.css');
 @import url('./vendor/fonts/fonts.css');
+@import url('./blocks/page/page.css');
+@import url('./blocks/centering-cover/centering-cover.css');
 @import url('./blocks/header/header.css');
 @import url('./blocks/tour-search/tour-search.css');
 @import url('./blocks/user-info/user-info.css');
 @import url('./blocks/main-navigation/main-navigation.css');
-@import url('./blocks/page/page.css');
+@import url('./blocks/bread-crumbs/bread-crumbs.css');
+@import url('./blocks/hotel-name/hotel-name.css');
 @import url('./blocks/luckiestguy/luckiestguy.css');
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/form/form.css');
