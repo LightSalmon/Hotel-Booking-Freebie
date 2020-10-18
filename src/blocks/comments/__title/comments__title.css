@@ -1,0 +1,10 @@
+.comments__title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333333;
+  margin: 0;
+  padding-top: 40px;
+}

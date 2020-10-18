@@ -1,0 +1,17 @@
+@import url('./__title/comments__title.css');
+@import url('./__change-box/comments__change-box.css');
+@import url('./__button/comments__button.css');
+@import url('./__button/_previous/comments__button_previous.css');
+@import url('./__button/_next/comments__button_next.css');
+@import url('./__info/comments__info.css');
+@import url('./__info-avatar/comments__info-avatar.css');
+@import url('./__info-box/comments__info-box.css');
+@import url('./__user-info/comments__user-info.css');
+@import url('./__info-name/comments__info-name.css');
+@import url('./__info-date/comments__info-date.css');
+@import url('./__info-rating/comments__info-rating.css');
+@import url('./__info-description/comments__info-description.css');
+
+.comments{
+  margin-bottom: 25px;
+}

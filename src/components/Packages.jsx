@@ -3,7 +3,6 @@ import {initialHotels} from '../utils/initialHotels';
 import Card from './Card';
 
 function Packeges(){
-  console.log({initialHotels})
   return(
     <section className="packages">
       <h2 className="packages__title">OTHER PACHEGES</h2>
