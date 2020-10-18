@@ -1,0 +1,5 @@
+@import url('./__map/hotel-location__map.css');
+
+.hotel-location {
+    grid-area: location;
+}

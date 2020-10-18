@@ -1,0 +1,5 @@
+.hotel-name__container {
+    display: flex;
+    align-items: baseline;
+    font-weight: bold;
+}

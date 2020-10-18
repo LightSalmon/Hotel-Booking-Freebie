@@ -8,6 +8,10 @@
 @import url('./blocks/main-navigation/main-navigation.css');
 @import url('./blocks/bread-crumbs/bread-crumbs.css');
 @import url('./blocks/hotel-name/hotel-name.css');
+@import url('./blocks/hotel-options/hotel-options.css');
+@import url('./blocks/hotel-parameters/hotel-parameters.css');
+@import url('./blocks/hotel-location/hotel-location.css');
+@import url('./blocks/slider/slider.css');
 @import url('./blocks/luckiestguy/luckiestguy.css');
 @import url('./blocks/footer/footer.css');
 @import url('./blocks/form/form.css');
@@ -15,4 +19,5 @@
 @import url('./blocks/card/card.css');
 @import url('./blocks/picture/picture.css');
 @import url('./blocks/button-book/button-book.css');
+@import url('./blocks/button-book/_type/button-book_type_preview.css');
 @import url('./blocks/room-info/room-info.css');

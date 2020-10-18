@@ -7,6 +7,10 @@
 @import url('__subtitle/hotel-name__subtitle.css');
 @import url('__promo/hotel-name__promo.css');
 @import url('__promo/_type/hotel-name__promo_type_user.css');
+@import url('__container/hotel-name__container.css');
+@import url('__estimate/hotel-name__estimate.css');
+@import url('__score/hotel-name__score.css');
+@import url('__total-score/hotel-name__total-score.css');
 
 .hotel-name {
 
