@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "478fe82dc69257533effea2cb0bfd1cd",
+    "revision": "6d476d3486f2f4c7484a927ac3ba7147",
     "url": "/Hotel-Booking-Freebie/index.html"
   },
   {
-    "revision": "63c851430ef5fcc240bf",
-    "url": "/Hotel-Booking-Freebie/static/css/main.1c09426d.chunk.css"
+    "revision": "5e7a530e4976692ef7c5",
+    "url": "/Hotel-Booking-Freebie/static/css/main.12b6258e.chunk.css"
   },
   {
-    "revision": "ece7226dcef5a4bf24a4",
-    "url": "/Hotel-Booking-Freebie/static/js/2.47de7b0a.chunk.js"
+    "revision": "bce78a3bbb3753b46790",
+    "url": "/Hotel-Booking-Freebie/static/js/2.15c6dcb7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Hotel-Booking-Freebie/static/js/2.47de7b0a.chunk.js.LICENSE.txt"
+    "url": "/Hotel-Booking-Freebie/static/js/2.15c6dcb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63c851430ef5fcc240bf",
-    "url": "/Hotel-Booking-Freebie/static/js/main.9a07b133.chunk.js"
+    "revision": "5e7a530e4976692ef7c5",
+    "url": "/Hotel-Booking-Freebie/static/js/main.1ef94425.chunk.js"
   },
   {
     "revision": "b3ac54af605ebd364a96",
@@ -34,6 +34,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e128ac44faa84b2d59c10c016fad0778",
     "url": "/Hotel-Booking-Freebie/static/media/Mulish-Regular.e128ac44.ttf"
+  },
+  {
+    "revision": "4943bca0cf148b0a83b75678b3ed1f91",
+    "url": "/Hotel-Booking-Freebie/static/media/avatar1.4943bca0.png"
+  },
+  {
+    "revision": "06aeb543fb9d907630e06daa0c724c09",
+    "url": "/Hotel-Booking-Freebie/static/media/avatar2.06aeb543.png"
+  },
+  {
+    "revision": "2bd77f3ff81ef0709a34c5e50b006071",
+    "url": "/Hotel-Booking-Freebie/static/media/avatar3.2bd77f3f.png"
+  },
+  {
+    "revision": "50e296441e82293e893a8b1c31198ae0",
+    "url": "/Hotel-Booking-Freebie/static/media/avatar4.50e29644.png"
+  },
+  {
+    "revision": "360324672d86f9c650d33bc52c185000",
+    "url": "/Hotel-Booking-Freebie/static/media/avatar5.36032467.png"
   },
   {
     "revision": "1381c4486dc3f4ec8d458378bcf3ecf6",
@@ -68,8 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hotel-Booking-Freebie/static/media/mappin.119c15e8.svg"
   },
   {
+    "revision": "ff055e15f35d127c0fa9bcdd7020a229",
+    "url": "/Hotel-Booking-Freebie/static/media/nextComment.ff055e15.svg"
+  },
+  {
     "revision": "ff48ee5723b68ab9e46dd067bb2ddb53",
     "url": "/Hotel-Booking-Freebie/static/media/phonecall.ff48ee57.svg"
+  },
+  {
+    "revision": "20aad87b478c0a3332f32b592c5b9766",
+    "url": "/Hotel-Booking-Freebie/static/media/previousComment.20aad87b.svg"
   },
   {
     "revision": "e0dce33ef606c79b364084affe4924a8",
