@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Hotel-Booking-Freebie/static/css/main.12b6258e.chunk.css",
-    "main.js": "/Hotel-Booking-Freebie/static/js/main.1ef94425.chunk.js",
-    "main.js.map": "/Hotel-Booking-Freebie/static/js/main.1ef94425.chunk.js.map",
+    "main.css": "/Hotel-Booking-Freebie/static/css/main.4175eb74.chunk.css",
+    "main.js": "/Hotel-Booking-Freebie/static/js/main.6ccd4cce.chunk.js",
+    "main.js.map": "/Hotel-Booking-Freebie/static/js/main.6ccd4cce.chunk.js.map",
     "runtime-main.js": "/Hotel-Booking-Freebie/static/js/runtime-main.1b559e78.js",
     "runtime-main.js.map": "/Hotel-Booking-Freebie/static/js/runtime-main.1b559e78.js.map",
-    "static/js/2.15c6dcb7.chunk.js": "/Hotel-Booking-Freebie/static/js/2.15c6dcb7.chunk.js",
-    "static/js/2.15c6dcb7.chunk.js.map": "/Hotel-Booking-Freebie/static/js/2.15c6dcb7.chunk.js.map",
+    "static/js/2.3a6669ac.chunk.js": "/Hotel-Booking-Freebie/static/js/2.3a6669ac.chunk.js",
+    "static/js/2.3a6669ac.chunk.js.map": "/Hotel-Booking-Freebie/static/js/2.3a6669ac.chunk.js.map",
     "index.html": "/Hotel-Booking-Freebie/index.html",
-    "precache-manifest.6bed6ff87e366199f452cb5830c3e0b8.js": "/Hotel-Booking-Freebie/precache-manifest.6bed6ff87e366199f452cb5830c3e0b8.js",
+    "precache-manifest.0c5747fbdbd81a57a50f4d55d56d106e.js": "/Hotel-Booking-Freebie/precache-manifest.0c5747fbdbd81a57a50f4d55d56d106e.js",
     "service-worker.js": "/Hotel-Booking-Freebie/service-worker.js",
-    "static/css/main.12b6258e.chunk.css.map": "/Hotel-Booking-Freebie/static/css/main.12b6258e.chunk.css.map",
-    "static/js/2.15c6dcb7.chunk.js.LICENSE.txt": "/Hotel-Booking-Freebie/static/js/2.15c6dcb7.chunk.js.LICENSE.txt",
+    "static/css/main.4175eb74.chunk.css.map": "/Hotel-Booking-Freebie/static/css/main.4175eb74.chunk.css.map",
+    "static/js/2.3a6669ac.chunk.js.LICENSE.txt": "/Hotel-Booking-Freebie/static/js/2.3a6669ac.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Hotel-Booking-Freebie/static/media/user.e0dce33e.svg",
     "static/media/avatar1.png": "/Hotel-Booking-Freebie/static/media/avatar1.4943bca0.png",
     "static/media/avatar2.png": "/Hotel-Booking-Freebie/static/media/avatar2.06aeb543.png",
     "static/media/avatar3.png": "/Hotel-Booking-Freebie/static/media/avatar3.2bd77f3f.png",
     "static/media/avatar4.png": "/Hotel-Booking-Freebie/static/media/avatar4.50e29644.png",
     "static/media/avatar5.png": "/Hotel-Booking-Freebie/static/media/avatar5.36032467.png",
+    "static/media/best-tour-plan.svg": "/Hotel-Booking-Freebie/static/media/best-tour-plan.d69b1d25.svg",
+    "static/media/hotel-star.svg": "/Hotel-Booking-Freebie/static/media/hotel-star.71d11ef6.svg",
     "static/media/hotel2.png": "/Hotel-Booking-Freebie/static/media/hotel2.e5946eab.png",
     "static/media/hotel3.png": "/Hotel-Booking-Freebie/static/media/hotel3.e03cad57.png",
     "static/media/hotel5.png": "/Hotel-Booking-Freebie/static/media/hotel5.4f3852e6.png",
@@ -25,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1b559e78.js",
-    "static/js/2.15c6dcb7.chunk.js",
-    "static/css/main.12b6258e.chunk.css",
-    "static/js/main.1ef94425.chunk.js"
+    "static/js/2.3a6669ac.chunk.js",
+    "static/css/main.4175eb74.chunk.css",
+    "static/js/main.6ccd4cce.chunk.js"
   ]
 }
