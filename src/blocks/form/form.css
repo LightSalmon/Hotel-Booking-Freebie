@@ -8,6 +8,6 @@
   padding: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 15px 50px 123px 50px;
+  grid-template-rows: auto 50px 123px 50px;
   gap: 15px 30px;
 }

@@ -22,3 +22,7 @@
 @import url('./blocks/button-book/_type/button-book_type_preview.css');
 @import url('./blocks/room-info/room-info.css');
 @import url('./blocks/comments/comments.css');
+
+/* * {
+    outline: 1px solid olive;
+} */

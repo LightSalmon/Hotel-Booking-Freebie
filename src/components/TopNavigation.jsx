@@ -6,8 +6,7 @@ const TopNavigation = () => {
             <div className="header__contact">
                 <span className="header__contact header__contact_type_question">Questions? Need Help?
                 </span> Call us on&nbsp;
-                <a href="tel:(+123) 456 1500" className="header__contact header__contact_type_phone"
-                   target="__blank">(+123) 456 1500</a>
+                <a href="tel:(+123) 456 1500" className="header__contact header__contact_type_phone" target="__blank">(+123) 456 1500</a>
             </div>
             <div className="header__preference">
                 <div className="header__container header__container_type_gift">

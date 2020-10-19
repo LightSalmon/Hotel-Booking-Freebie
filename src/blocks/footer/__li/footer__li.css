@@ -10,3 +10,7 @@
   color: #BDBDBD;
   text-transform: none;
 }
+
+.footer__li:first-child{
+  margin-top: 24px;
+}
