@@ -1,0 +1,14 @@
+.button-book {
+  width: 120px;
+  height: 40px;
+  background: #EC1F46;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+  border: none;
+  position: absolute;
+  right: 21px;
+  bottom: 25px;
+}

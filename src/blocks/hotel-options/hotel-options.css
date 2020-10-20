@@ -1,0 +1,7 @@
+@import url('./__conditions/hotel-options__conditions.css');
+@import url('./__call-center/hotel-options__call-center.css');
+@import url('./__contacts/hotel-options__contacts.css');
+
+.hotel-options {
+    grid-area: options;
+}

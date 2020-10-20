@@ -1,0 +1,14 @@
+@import url('./__logo/tour-search__logo.css');
+@import url('./__input/tour-search__input.css');
+@import url('./__submit/tour-search__submit.css');
+@import url('./__container/tour-search__container.css');
+
+.tour-search {
+    min-width: 100%;
+    font-size: 14px;
+    line-height: 1.29;
+    font-weight: normal;
+    color: #333333;
+    background-color: #FFFFFF;
+    padding: 39px 0;
+}

@@ -1,0 +1,10 @@
+.button-book_type_preview {
+    width: 295px;
+    height: 45px;
+    position: static;
+    cursor: pointer;
+}
+
+.button-book_type_preview:hover {
+    opacity: 0.5;
+}

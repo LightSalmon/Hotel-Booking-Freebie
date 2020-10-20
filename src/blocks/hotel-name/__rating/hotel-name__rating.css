@@ -1,0 +1,8 @@
+.hotel-name__rating {
+    display: flex;
+    justify-content: space-between;
+    width: 48px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,5 @@
+.footer__title_width_two-columns{
+  padding: 10px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}

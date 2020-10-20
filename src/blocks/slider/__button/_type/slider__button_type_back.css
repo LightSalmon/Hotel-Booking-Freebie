@@ -1,0 +1,4 @@
+.slider__button_type_back {
+    background-image: url('../../../../images/chevron-left.svg');
+    left: 16px;
+}

@@ -1,0 +1,16 @@
+@import url('./_point/footer__li_point.css');
+@import url('./_phone/footer__li_phone.css');
+@import url('./_post/footer__li_post.css');
+
+.footer__li{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  color: #BDBDBD;
+  text-transform: none;
+}
+
+.footer__li:first-child{
+  margin-top: 24px;
+}

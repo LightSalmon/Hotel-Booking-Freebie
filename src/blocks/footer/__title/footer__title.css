@@ -1,0 +1,12 @@
+@import url('./_width/_two-columns.css');
+@import url('./_width/_top-marg.css');
+.footer__title {
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    list-style: none;
+}

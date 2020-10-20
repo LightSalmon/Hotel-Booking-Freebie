@@ -1,0 +1,9 @@
+.hotel-options__call-center {
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.39;
+    margin-bottom: 8px;
+}

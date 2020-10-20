@@ -1,0 +1,9 @@
+.card__down-part{
+  width: 350px;
+  height: 250px;
+  border-radius: 0px 0px 8px 8px;
+  background-color:  #0A223D;
+  position: relative;
+box-sizing: border-box;
+  padding-left: 32px;
+}

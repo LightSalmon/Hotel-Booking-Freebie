@@ -1,0 +1,11 @@
+.card__down-part_type_preview {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 210px;
+    border-radius: 8px;
+    background-color:  #0A223D;
+    position: relative;
+    box-sizing: border-box;
+    padding: 29px 29px 26px 26px;
+}

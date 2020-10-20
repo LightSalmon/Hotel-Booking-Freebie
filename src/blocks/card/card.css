@@ -1,0 +1,13 @@
+@import url('./__up-part/card__up-part.css');
+@import url('./__down-part/card__down-part.css');
+@import url('./__down-part-subtitle/card__down-part-subtitle.css');
+@import url('./__down-part-title/card__down-part-title.css');
+@import url('./__down-part-container/card__down-part-container.css');
+@import url('./__down-part-oldprice/card__down-part-oldprice.css');
+@import url('./__down-part-newprice/card__down-part-newprice.css');
+@import url('./__down-part/_type/card__down-part_type_preview.css');
+@import url('./__down-part-subtitle/_type/card__down-part-subtitle_type_preview.css');
+
+.card{
+  font-size: 0;
+}
