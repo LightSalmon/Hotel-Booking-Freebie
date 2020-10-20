@@ -1,0 +1,7 @@
+.header__contact_type_phone {
+    text-decoration: none;
+}
+
+.header__contact_type_phone:hover {
+    opacity: 0.5;
+}

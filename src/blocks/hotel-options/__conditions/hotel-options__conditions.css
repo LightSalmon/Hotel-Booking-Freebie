@@ -1,0 +1,5 @@
+.hotel-options__conditions {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 9px;
+}

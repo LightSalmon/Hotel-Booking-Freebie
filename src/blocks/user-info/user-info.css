@@ -1,0 +1,11 @@
+@import url('./__button/user-info__button.css');
+@import url('./__button/_type/user-info__button_type_cart.css');
+@import url('./__button/_type/user-info__button_type_login.css');
+@import url('./__profile/user-info__profile.css');
+
+.user-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 237px;
+}

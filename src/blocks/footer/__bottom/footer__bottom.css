@@ -1,5 +1,9 @@
 .footer__bottom {
-  text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 283px;
+  margin: 102px auto 46px;
   font-size: 12px;
   line-height: 15px;
   letter-spacing: 0em;

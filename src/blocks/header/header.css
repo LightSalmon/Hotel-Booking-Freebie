@@ -1,0 +1,19 @@
+@import url('./__top-navigation/header__top-navigation.css');
+@import url('./__contact/header__contact.css');
+@import url('./__contact/_type/header__contact_type_question.css');
+@import url('./__contact/_type/header__contact_type_phone.css');
+@import url('./__container/header__container.css');
+@import url('./__container/_type/header__container_type_gift.css');
+@import url('./__container/_type/header__container_type_loyalty.css');
+@import url('__preference/header__preference.css');
+@import url('./__button/header__button.css');
+@import url('./__button/_type/header__button_type_gift.css');
+@import url('./__button/_type/header__button_type_star.css');
+@import url('./__program/header__program.css');
+@import url('./__tour-search/header__tour-search.css');
+@import url('./__navigation/header-navigation.css');
+
+.header {
+    min-width: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,7 @@
+.slider__image {
+    display: none;
+    background: linear-gradient(180deg, rgba(0, 122, 223, 0.48) 0%, rgba(255, 255, 255, 0.128) 100%), url('../../../images/front.png');
+    border-radius: 8px;
+    max-width: 728px;
+    min-height: 450px;
+}

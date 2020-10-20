@@ -1,0 +1,9 @@
+.hotel-name__promo {
+    display: block;
+    font-size: 10px;
+    line-height: 1.25;
+    color: #FFFFFF;
+    background-color: #EC1F46;
+    padding: 4px 9px;
+    border-radius: 3px;
+}

@@ -1,0 +1,13 @@
+.hotel-options__contacts {
+    position: relative;
+}
+
+.hotel-options__contacts:last-of-type::before {
+    position: absolute;
+    content: '';
+    background-image: url('../../../images/phoneCallFirst.svg');
+    top: 6px;
+    left: -23px;
+    width: 14px;
+    height: 14px;
+}

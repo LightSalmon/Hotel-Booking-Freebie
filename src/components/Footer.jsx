@@ -1,4 +1,7 @@
 import React from 'react';
+import facebook from "../images/facebook.svg";
+import youtube from "../images/youtube.svg";
+import instagram from "../images/instagram.svg";
 
 function Footer() {
   return (
@@ -23,8 +26,10 @@ function Footer() {
           <li className="footer__li">Frequently Asked Questions</li>
           <li className="footer__li">Deals.mu loyalty program</li>
           <li className="footer__li">Promote your Business on BTP</li>
-
-          <ul className="footer__title">Social Network</ul>
+          <h2 className="footer__title footer__title_width_top-marg">Social Network 
+            <img src = {facebook} alt = "facebook" className = "footer__social-icons" />
+            <img src = {youtube} alt = "youtube" className = "footer__social-icons" />
+            <img src = {instagram} alt = "instagram" className = "footer__social-icons" /></h2>
         </ul>
 
         <ul className="footer__title">LEGAL INFORMATION
@@ -46,14 +51,18 @@ function Footer() {
 
         <form className="form" action="" method="POST">
           <h3 className="footer__title form__input_large">Send us a message</h3>
-          <input className="form__input" type="text" id="username" name="username" placeholder="Your Full Name&ast;" />
-          <input className="form__input" type="tel" id="number" name="password" placeholder="Phone Number&ast;" />
-          <input className="form__input_large" type="text-area" id="number" name="message" placeholder="Message" />
+          <input className="form__input" type="text" id="username" name="username" placeholder="Your Full Name&#42;" />
+          <input className="form__input" type="tel" id="number" name="password" placeholder="Phone Number&#42;" />
+          <input className="form__input form__input_large" type="text-area" id="number" name="message" placeholder="Message" />
           <button className="form__submit-btn" type="submit">Send</button>
-          <p className="footer__p">&ast;Required Fields</p>
+          <p className="footer__p">&#42;Required Fields</p>
         </form>
       </div>
-      <a href="#" className="footer__bottom"> Disclaimer    Conditions of use    Cancellation policy</a>
+      <div className="footer__bottom">
+        <a href="#" className="footer__bottom-links"> Disclaimer </a>
+        <a href="#" className="footer__bottom-links"> Conditions of use </a>
+        <a href="#" className="footer__bottom-links"> Cancellation policy </a>
+      </div>
     </section>
   )
 }

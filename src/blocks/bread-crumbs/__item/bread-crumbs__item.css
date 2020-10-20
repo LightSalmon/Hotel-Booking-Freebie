@@ -1,0 +1,14 @@
+.bread-crumbs__item {
+    position: relative;
+}
+
+.bread-crumbs__item:not(:last-of-type) {
+    margin-right: 10px;
+}
+
+.bread-crumbs__item:not(:last-of-type)::after {
+    content: '/';
+    position: absolute;
+    top: 0;
+    right: -7px;
+}

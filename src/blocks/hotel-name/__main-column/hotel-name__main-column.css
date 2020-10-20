@@ -1,0 +1,6 @@
+.hotel-name__main-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 23px 0;
+}

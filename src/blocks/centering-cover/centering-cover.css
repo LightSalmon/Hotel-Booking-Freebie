@@ -1,0 +1,8 @@
+.centering-cover {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: calc(1440px - 165px*2);
+    margin: 0 auto;
+    padding: 0 165px;
+}

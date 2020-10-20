@@ -1,0 +1,9 @@
+.main-navigation__item {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.main-navigation__item:hover {
+    opacity: 0.5;
+}

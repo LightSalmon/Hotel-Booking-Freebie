@@ -3,12 +3,13 @@
 @import url('./__title/footer__title.css');
 @import url('./__p/footer__p.css');
 @import url('./__bottom/footer__bottom.css');
-
+@import url('./__social-icons/footer__social-icons.css');
+@import url('./__bottom-links/footer__bottom-links.css');
 .footer {
-  max-width: 100%;
-  background-color: #0A223D;
-  font-family: Mulish;
-  margin: 0;
-  padding: 9.65% 11.45% 3.2%;
-  color: #fff;
+    max-width: 100%;
+    background-color: #0A223D;
+    color: #fff;
+    font-family: Mulish;
+    margin: 0;
+    padding: 108px 0 0;
 }

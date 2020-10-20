@@ -1,0 +1,13 @@
+@import url('./__content/slider__content.css');
+@import url('./__list/slider__list.css');
+@import url('./__image/slider__image.css');
+@import url('./__image/_show/slider__image_show.css');
+@import url('./__button/slider__button.css');
+@import url('./__button/_type/slider__button_type_back.css');
+@import url('./__button/_type/slider__button_type_next.css');
+
+.slider {
+    position: relative;
+    max-width: 728px;
+    grid-area: slider;
+}

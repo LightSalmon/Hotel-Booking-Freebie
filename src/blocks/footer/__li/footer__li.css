@@ -11,6 +11,6 @@
   text-transform: none;
 }
 
-li:first-child {
-  margin-top: 22px;
+.footer__li:first-child{
+  margin-top: 24px;
 }

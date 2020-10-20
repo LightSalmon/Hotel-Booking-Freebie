@@ -1,0 +1,11 @@
+.hotel-parameters {
+    display: grid;
+    grid-template-columns: 728px 1fr;
+    gap: 27px 30px;
+    grid-template-areas:
+            'slider options'
+            'slider location';
+    max-width: calc(1440px - 165px*2);
+    margin: 0 auto;
+    padding: 0 165px;
+}
