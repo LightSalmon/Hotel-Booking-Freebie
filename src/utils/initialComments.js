@@ -7,7 +7,7 @@ import avatar5 from '../images/comments/avatar5.png'
 export const initialComments = [
   {
     id: '0',
-    avatar: avatar1,
+    avatar: 'https://robohash.org/MeganFox.png',
     name: 'Megan Fox',
     date: 'Stayed 18 Nov, 2019',
     text:`It was very nice hotel with cleanliness. Staff behavior was good and polite. 
@@ -18,7 +18,7 @@ export const initialComments = [
   },
   {
     id: '1',
-    avatar: avatar2,
+    avatar: 'https://robohash.org/Man.png',
     name: 'Man',
     date: 'Stayed 18 Nov, 2019',
     text:`Floor and amenities articles were in corner of gallery which were giving bad feeling. 
@@ -27,7 +27,7 @@ export const initialComments = [
   },
   {
     id: '2',
-    avatar: avatar3,
+    avatar: 'https://robohash.org/Golfer.png',
     name: 'Golfer',
     date: 'Stayed 18 Nov, 2019',
     text:`It was very nice hotel with cleanliness. Staff behavior was good and polite. 
@@ -35,7 +35,7 @@ export const initialComments = [
   },
   {
     id: '3',
-    avatar: avatar4,
+    avatar: 'https://robohash.org/Sunset.png',
     name: 'Sunset',
     date: 'Stayed 18 Nov, 2019',
     text:`It was very nice hotel with cleanliness. Staff behavior was good and polite. 
@@ -46,7 +46,7 @@ export const initialComments = [
   },
   {
     id: '4',
-    avatar: avatar5,
+    avatar: 'https://robohash.org/Fromboat.png',
     name: 'From boat',
     date: 'Stayed 18 Nov, 2019',
     text:`It was very nice hotel with cleanliness. Staff behavior was good and polite. 
