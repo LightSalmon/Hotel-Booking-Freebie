@@ -1,0 +1,14 @@
+.footer__bottom-links {
+    padding: 0;
+    margin: 0;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer__bottom-links:hover {
+    opacity: 0.5;
+}
