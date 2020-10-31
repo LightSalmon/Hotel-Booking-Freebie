@@ -5,7 +5,7 @@ import {
   Route,
   NavLink
 } from "react-router-dom";
-import PackageSumery from './PackageSumery';
+import PackageSummery from './PackageSummery';
 import HotelInformation from './HotelInformation';
 
 function HotelInfo (props) {
@@ -40,7 +40,7 @@ function HotelInfo (props) {
       </nav>
       
         <Route exact path="/Hotel-Booking-Freebie">
-          <PackageSumery />
+          <PackageSummery />
         </Route>
         <Route path="/hotelInfo">
           <HotelInformation />

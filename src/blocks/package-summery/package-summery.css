@@ -1,6 +1,10 @@
-.package-summery{
-  width: 100px;
-  height: 100px;
-  background-color: salmon;
+@import url('./__main-title/package-summery__main-title.css');
+@import url('./__cover/package-summery__cover.css');
+@import url('./__column/package-summery__column.css');
+@import url('./__title/package-summery__title.css');
+
+.package-summery {
+  max-width: calc(1440px - 165px*2);
   margin: 40px auto 0;
+  padding: 0 165px;
 }

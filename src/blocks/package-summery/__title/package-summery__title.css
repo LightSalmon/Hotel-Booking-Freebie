@@ -1,0 +1,10 @@
+.package-summery__title {
+  font-size: 14px;
+  line-height: 1.29;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin: 0;
+  background-color: #0A223D;
+  border-radius: 8px 8px 0 0;
+  padding: 16px 24px;
+}

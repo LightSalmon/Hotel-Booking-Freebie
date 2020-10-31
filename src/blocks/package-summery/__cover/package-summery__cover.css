@@ -1,0 +1,5 @@
+.package-summery__cover {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1110px;
+}
