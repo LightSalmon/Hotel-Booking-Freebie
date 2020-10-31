@@ -16,7 +16,7 @@ function HotelInfo (props) {
       <nav className = "hotel-navigation">
         <ul className="hotel-navigation__list">
           <li>
-            <NavLink exact to="/" className="hotel-navigation__item" activeClassName="hotel-navigation__item_active">Package Summery</NavLink>
+            <NavLink exact to="/Hotel-Booking-Freebie" className="hotel-navigation__item" activeClassName="hotel-navigation__item_active">Package Summery</NavLink>
           </li>
           <li>
             <NavLink to="/hotelInfo" className="hotel-navigation__item" activeClassName="hotel-navigation__item_active">Hotel Information</NavLink>
@@ -38,29 +38,29 @@ function HotelInfo (props) {
           </li>
         </ul>
       </nav>
-      <Switch>
-        <Route exact path="/">
+      
+        <Route exact path="/Hotel-Booking-Freebie">
           <PackageSumery />
         </Route>
         <Route path="/hotelInfo">
           <HotelInformation />
         </Route>
         <Route path="/rooms">
-          <PackageSumery />
+          {/* <Rooms /> */}
         </Route>
         <Route path="/facilities">
-          <PackageSumery />
+          {/* <Facilities /> */}
         </Route>
         <Route path="/dining">
-          <PackageSumery />
+          {/* <Dining /> */}
         </Route>
         <Route path="/reviews">
-          <PackageSumery />
+          {/* <Reviews /> */}
         </Route>
         <Route path="/questions">
-          <PackageSumery />
+          {/* <Questions /> */}
         </Route>
-      </Switch>
+      
     </Router>
   )
 };
