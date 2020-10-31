@@ -13,7 +13,5 @@
 @import url('./__info-description/comments__info-description.css');
 
 .comments{
-  margin-bottom: 25px;
-  max-width: 1110px;
-  padding: 0 165px;
+  margin: 0 auto 25px;  
 }
