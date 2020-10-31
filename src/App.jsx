@@ -6,6 +6,7 @@ import UsersComments from './components/UsersComments';
 import Header from "./components/Header";
 import BreadCrumbs from "./components/BreadCrumbs";
 import FlashOffer from "./components/FlashOffer";
+import HotelInfo from "./components/HotelInfo";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <BreadCrumbs/>
       <FlashOffer/>
+      <HotelInfo />
       <Packages/>
       <UsersComments />
       <Footer/>

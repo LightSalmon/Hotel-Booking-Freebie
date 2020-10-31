@@ -1,0 +1,5 @@
+.hotel-navigation__item_active{
+  color: #EC1F46;
+  border-bottom: 4px solid  #EC1F46;
+  padding: 0;
+}

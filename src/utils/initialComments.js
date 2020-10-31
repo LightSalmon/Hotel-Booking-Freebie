@@ -1,8 +1,8 @@
-import avatar1 from '../images/comments/avatar1.png'
-import avatar2 from '../images/comments/avatar2.png'
-import avatar3 from '../images/comments/avatar3.png'
-import avatar4 from '../images/comments/avatar4.png'
-import avatar5 from '../images/comments/avatar5.png'
+// import avatar1 from '../images/comments/avatar1.png'
+// import avatar2 from '../images/comments/avatar2.png'
+// import avatar3 from '../images/comments/avatar3.png'
+// import avatar4 from '../images/comments/avatar4.png'
+// import avatar5 from '../images/comments/avatar5.png'
 
 export const initialComments = [
   {

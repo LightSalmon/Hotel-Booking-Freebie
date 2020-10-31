@@ -22,6 +22,9 @@
 @import url('./blocks/button-book/_type/button-book_type_preview.css');
 @import url('./blocks/room-info/room-info.css');
 @import url('./blocks/comments/comments.css');
+@import url('./blocks/hotel-navigation/hotel-navigation.css');
+@import url('./blocks/package-summery/package-summery.css');
+@import url('./blocks/hotel-information/hoteI-information.css');
 
 /* * {
     outline: 1px solid olive;

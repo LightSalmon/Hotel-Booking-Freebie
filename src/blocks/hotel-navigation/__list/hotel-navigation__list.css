@@ -1,0 +1,9 @@
+.hotel-navigation__list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1110px;
+  margin: 70px auto 0;
+  padding: 0 165px;
+  list-style: none;
+}
