@@ -1,4 +1,6 @@
 .package-summery__column {
+  display: flex;
+  flex-direction: column;
   min-width: 538px;
   border-radius: 0 0 8px 8px;
   background-color: #FFFFFF;
