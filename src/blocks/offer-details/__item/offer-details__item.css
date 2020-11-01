@@ -1,0 +1,18 @@
+.offer-details__item {
+  position: relative;
+}
+
+.offer-details__item:first-child {
+  max-width: 200px;
+}
+
+.offer-details__item:last-child::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -39px;
+  width: 18px;
+  height: 18px;
+  background-image: url('../../../images/calendar.svg');
+  background-repeat: no-repeat;
+}

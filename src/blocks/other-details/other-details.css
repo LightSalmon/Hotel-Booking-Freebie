@@ -1,0 +1,8 @@
+@import url('./__item/other-details__item.css');
+
+.other-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 1001px;
+}

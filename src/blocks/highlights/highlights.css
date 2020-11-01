@@ -1,0 +1,7 @@
+@import url('./__item/highlights__item.css');
+
+.highlights {
+  margin: 27px 25px;
+  min-width: 488px;
+  max-height: 96px;
+}

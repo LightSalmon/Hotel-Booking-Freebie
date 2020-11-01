@@ -1,0 +1,31 @@
+.package-summery__checkbox {
+  display: none;
+}
+
+.package-summery__checkbox + .package-summery__label {
+    cursor: pointer;
+}
+
+.package-summery__checkbox + .package-summery__label::before {
+    content: "";
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    top: -2px;
+    left: -39px;
+    border-radius: 50%;
+    background-image: url('../../../images/checkcilcle.svg');
+    background-repeat: no-repeat;
+}
+
+.package-summery__checkbox:checked + .package-summery__label::after {
+    content: "";
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    top: 3px;
+    left: -35px;
+    background-image: url('../../../images/checkmark.svg');
+    background-repeat: no-repeat;
+    z-index: 2;
+}

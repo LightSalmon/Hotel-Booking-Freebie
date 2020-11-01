@@ -1,0 +1,21 @@
+@import url('./__item/main-details__item.css');
+@import url('./__form/main-details__form.css');
+
+.main-details {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 77px;
+  min-width: 1001px;
+}
+
+.main-details::after {
+  content: "";
+  position: absolute;
+  width: 1048px;
+  height: 1px;
+  top: 280px;
+  left: 0;
+  border-bottom: 1px dashed #E0E0E0;
+}

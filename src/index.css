@@ -23,7 +23,11 @@
 @import url('./blocks/room-info/room-info.css');
 @import url('./blocks/comments/comments.css');
 @import url('./blocks/hotel-navigation/hotel-navigation.css');
-@import url('blocks/package-summery/package-summery.css');
+@import url('./blocks/package-summery/package-summery.css');
+@import url('./blocks/highlights/highlights.css');
+@import url('./blocks/offer-details/offer-details.css');
+@import url('./blocks/main-details/main-details.css');
+@import url('./blocks/other-details/other-details.css');
 @import url('./blocks/hotel-information/hoteI-information.css');
 
 /* * {

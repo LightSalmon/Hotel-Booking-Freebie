@@ -1,0 +1,7 @@
+.main-details__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 239px;
+  min-width: 255px;
+}

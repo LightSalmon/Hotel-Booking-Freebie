@@ -1,0 +1,8 @@
+.package-summery__duration {
+  position: relative;
+  top: 5px;
+  left: 25px;
+  font-size: 10px;
+  line-height: 1.26;
+  font-style: italic;
+}
